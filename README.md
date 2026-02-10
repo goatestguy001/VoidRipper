@@ -53,8 +53,8 @@ Welcome! I’m a hands-on **Digital Forensics & Incident Response (DFIR) practit
 ## 📬 Contact Me
 
 - **Email:** ali4damilare@gmail.com  
-- **GitHub:** 
-- **LinkedIn:** your-linkedin-profile
+- **GitHub:** https://github.com/goatestguy001/VoidRipper
+- **LinkedIn:** 
   
 *Portfolio last updated: [Tue,10:02:26]*
 
