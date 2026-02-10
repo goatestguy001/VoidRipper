@@ -58,8 +58,3 @@ Welcome! I’m a hands-on **Digital Forensics & Incident Response (DFIR) practit
   
 *Portfolio last updated: [Tue,10:02:26]*
 
-
-
----
-
-*Portfolio last updated: [today’s date]*
